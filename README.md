@@ -214,6 +214,6 @@ resources/
 
 **Habibur Rahman Riad**
 - GitHub: [@riad1302](https://github.com/riad1302)
-- LinkedIn: [Habibur Rahman Riad](https://linkedin.com/in/habibur-rahman-riad)
+- LinkedIn: [Habibur Rahman Riad](https://www.linkedin.com/in/md-habibur-rahman-97ba2b155/)
 
 Made with ❤️ using Laravel 11
